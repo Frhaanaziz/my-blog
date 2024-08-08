@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://blog.nurriyad.xyz" target="_blank">
-    <img  src="./assets/images/dark.png">
-  </a>
-</p>
-
 <h1 align="center">Nuxt Blog A Personal Blog Site</h1>
 
 ### Built with
@@ -32,22 +26,9 @@
 - Then head over to the ./content/blogs folder to add new blogs
 - Voilà! You've got a personalized blog site!
 
-## Preview
-
-<p align="center">
-  <a href="https://blog.nurriyad.xyz" target="_blank">
-    <img width="1090" src="./assets/images/preview1.png">
-    <img width="1090" src="./assets/images/preview2.png">
-    <img width="1090" src="./assets/images/preview3.png">
-    <img width="1090" src="./assets/images/preview4.png">
-    <br>
-    Live Demo
-  </a>
-</p>
-
 ## Demo
 
-https://blog.nurriyad.xyz
+https://blog.aththariq.com
 
 > Hosted on [Vercel](https://vercel.com/): `npm run build`
 
@@ -57,15 +38,15 @@ https://blog.nurriyad.xyz
 
 ```bash
 # install dependencies
-yarn install
+pnpm install
 
 # serve in dev mode, with hot reload at localhost:5173
-yarn run dev
+pnpm run dev
 
 # build for production
-yarn run build
+pnpm run build
 
 # serve in production mode
-yarn run  preview
+pnpm run  preview
 
 ```
