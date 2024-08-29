@@ -15,7 +15,7 @@ defineOgImageComponent('About', {
   headline: 'Greetings 👋',
   title: navbarData.homeTitle,
   description: 'Dive into web development with me and learn Js, Ts, Vue, Nuxt, Docker, k8s',
-  link: '/riyad.jpg',
+  link: '/farhan.jpg',
 })
 </script>
 
@@ -31,42 +31,37 @@ defineOgImageComponent('About', {
 
             <div class="my-3 space-x-2 md:space-x-3 pb-10">
               <NuxtLink
-                to="https://github.com/nurRiyad"
+                to="https://github.com/frhaanaziz"
                 target="_blank"
                 class="px-2 py-1 lg:px-3 lg:py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
                 aria-label="Github"
+                external
               >
                 <Icon name="fa:github" size="1em" />
               </NuxtLink>
               <NuxtLink
-                to="https://www.linkedin.com/in/nur-riyad/"
+                to="https://www.linkedin.com/in/frhaanaziz/"
                 target="_blank"
                 class="px-2 py-1 lg:px-3 lg:py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
                 aria-label="LinkedIn"
+                external
               >
                 <Icon name="fa:linkedin-square" size="1em" />
               </NuxtLink>
               <NuxtLink
-                to="https://twitter.com/qdnvubp"
+                to="https://twitter.com/frhaanthariq"
                 target="_blank"
                 class="px-2 py-1 lg:px-3 lg:py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
                 aria-label="Twitter"
+                external
               >
                 <Icon name="fa:twitter-square" size="1em" />
-              </NuxtLink>
-              <NuxtLink
-                to="https://stackoverflow.com/users/16781395/nur-riyad"
-                target="_blank"
-                class="px-2 py-1 lg:px-3 lg:py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
-                aria-label="StackOverflow"
-              >
-                <Icon name="fa:stack-overflow" size="1em" />
               </NuxtLink>
             </div>
           </div>
           <div class="sm:hidden block col-span-3 pb-5 dark:text-[#F1F2F4]">
             <NuxtImg
-              src="/riyad.jpg"
+              src="/farhan.jpg"
               width="125"
               height="115"
               quality="50"
@@ -82,7 +77,7 @@ defineOgImageComponent('About', {
       </div>
       <div class="hidden sm:block col-span-3">
         <NuxtImg
-          src="/riyad.jpg"
+          src="/farhan.jpg"
           width="450"
           height="500"
           quality="50"

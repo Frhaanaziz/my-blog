@@ -1,17 +1,17 @@
 export const navbarData = {
-  homeTitle: 'Riyad\'s Blog',
+  homeTitle: 'Farhan\'s Blog',
 }
 
 export const footerData = {
-  author: 'Al Asad Nur Riyad',
-  aboutAuthor: 'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at Appscode Inc.',
-  authorInterest: 'I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let\'s connect.',
+  author: 'Farhan Aziz Ath Thariq',
+  aboutAuthor: 'Hi! I am Farhan, a Tech enthusiast and a problem solver',
+  authorInterest: 'I have a fair amount of knowledge of Javascript, Typescript, VueJs, Nuxt, React, and Next.js. If you have an interesting idea, either open source or paid let\'s connect.',
   aboutTheSite: 'This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it\'s deployed in Vercel.',
 }
 
 export const homePage = {
   title: 'Welcome To My Blog Site',
-  description: 'Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+  description: 'Get Web Development, Javascript, Typescript, NodeJs, Vue, Nuxt, React, Next.js, Related Articles, Tips, Learning resources and more.',
 }
 
 export const blogsPage = {
@@ -25,19 +25,19 @@ export const categoryPage = {
 }
 
 export const aboutPage = {
-  title: 'Al Asad Nur Riyad',
-  description: 'Software Engineer, Problem Solver, Web Enthusiast.',
-  aboutMe: 'Hello, fellow human! I\'m a software wizard who spends most of his day crafting code spells at @AppsCode in the Bytebuilders team. When I\'m not crafting code, you can find me summoning solutions to problems on online judges. Just don\'t ask me to cast any love spells, my magic only works on machines!',
+  title: 'Farhan Aziz Ath Thariq',
+  description: 'Problem Solver and Web Enthusiast.',
+  aboutMe: 'Hello, fellow human! I\'m a software wizard who spends most of his day crafting code spells. When I\'m not crafting code, you can find me summoning solutions to problems on online judges. Just don\'t ask me to cast any love spells, my magic only works on machines!',
 }
 
 export const seoData = {
-  description: 'Riyad, Software Engineer at AppsCode, with over 2.5+ years experience in software development.',
-  ogTitle: 'Riyad codes and helps others learn Javascript, Typescript, Vue, Nuxt, & Problem Solving',
-  twitterDescription: 'My blog website, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc',
+  description: 'Farhan, 2.5+ years experience in software development.',
+  ogTitle: 'Farhan codes and helps others learn Javascript, Typescript, Vue, Nuxt, React, Next.js & Problem Solving',
+  twitterDescription: 'My blog website, where I play around with Nuxt, Vue, React, Next.js and more and showcase my blog, resources, etc',
   image: 'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
-  mySite: 'https://blog-nurriyad.vercel.app',
-  twitterHandle: '@qdnvubp',
-  mailAddress: 'asadnurriyad@gmail.com',
+  mySite: 'https://blog.aththariq.com',
+  twitterHandle: '@frhaanthariq',
+  mailAddress: 'farhan@aththariq.com',
 }
 
 export const siteMetaData = [
